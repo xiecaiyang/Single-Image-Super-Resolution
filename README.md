@@ -5,6 +5,11 @@ By Yapeng Tian and Yunlun Zhang (if you have any suggestions, please contact us!
 
 Tip: For SR beginners, I recommend you to read some early learning based SISR works which will help understand the problem.
 
+## Survey Paper
+
+[1] Wenming Yang, Xuechen Zhang, Yapeng Tian, Wei Wang, Jing-Hao Xue. Deep Learning for Single Image Super-Resolution:
+A Brief Review. TMM, 2019. [[Paper]](https://arxiv.org/pdf/1808.03344.pdf)
+
 ## Example-based methods
 
 ### Early learning-based methods
@@ -162,4 +167,14 @@ learn how to do image degradation first. ECCV, 2018. [[Paper]](https://arxiv.org
 [54] Zhen Li, Jinglei Yang, Zheng Liu, Xiaomin Yang, Gwanggil Jeon, and Wei Wu. Feedback Network for Image Super-Resolution, CVPR 2019. [[Paper]](https://arxiv.org/abs/1903.09814)[[Code]](https://github.com/Paper99/SRFBN_CVPR19)
 
 [55] Chang Chen, Zhiwei Xiong, Xinmei Tian, Zheng-Jun Zha, and Feng Wu.Camera Lens Super-Resolution, CVPR 2019. [[Paper]](https://arxiv.org/pdf/1904.03378.pdf)[[Code]](https://github.com/ngchc/CameraSR)
+
+[56] Zhifei Zhang, Zhaowen Wang, Zhe Lin, Hairong Qi. Image Super-Resolution by Neural Texture Transfer. CVPR 2019. [[Paper]](https://arxiv.org/pdf/1903.00834.pdf)
+
+[57] Tao Dai, Jianrui Cai, Yongbing Zhang, Shu-Tao Xia, Lei Zhang. Second-order Attention Network for Single Image Super-resolution. CVPR 2019. [[Project]](https://github.com/daitao/SAN)
+
+[58] Gu, Jinjin and Lu, Hannan and Zuo, Wangmeng and Dong, Chao. Blind Super-Resolution With Iterative Kernel Correction, CVPR 2019. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gu_Blind_Super-Resolution_With_Iterative_Kernel_Correction_CVPR_2019_paper.pdf)
+
+[59] Xu, Xiangyu and Ma, Yongrui and Sun, Wenxiu. Towards Real Scene Super-Resolution With Raw Images, CVPR 2019. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xu_Towards_Real_Scene_Super-Resolution_With_Raw_Images_CVPR_2019_paper.pdf)
+
+[60] He, Xiangyu and Mo, Zitao and Wang, Peisong and Liu, Yang and Yang, Mingyuan and Cheng, Jian. ODE-Inspired Network Design for Single Image Super-Resolution. CVPR 2019. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/He_ODE-Inspired_Network_Design_for_Single_Image_Super-Resolution_CVPR_2019_paper.html)
 
